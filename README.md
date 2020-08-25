@@ -11,4 +11,4 @@
 
 3. Open the live server for the ./client/index.html file. And enjoy !
 
-\*\* The collection is named as "task2" and the collection is named as "users" in the cloud.
+\*\* The database is named as "task2" and the collection is named as "users" in the cloud.
